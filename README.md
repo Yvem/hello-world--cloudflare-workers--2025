@@ -9,8 +9,9 @@ wrangler dev
 # http://localhost:8787/foo
 ```
 
-after git push: https://hello-world--cloudflare--pages--2025.ye-jutard.workers.dev/
+after git push: https://hello-world--cloudflare--workers--2025.ye-jutard.workers.dev/
 
+https://dash.cloudflare.com/b2af5783377fe245a6520d902507e050/workers/services/view/hello-world--cloudflare--workers--2025/
 
 
 ```
