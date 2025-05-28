@@ -6,7 +6,8 @@
   "$schema": "node_modules/wrangler/config-schema.json",
 
   // At a minimum, the name, main and compatibility_date keys are required to deploy a Worker.
-  "name": "my-worker",
+  "name": "hello-world--cloudflare--pages--2025", // overall project name, will appear in Cloudflare dashboard
+
   "compatibility_date": "2025-05-28", // https://developers.cloudflare.com/workers/configuration/compatibility-dates/
 
   /*
