@@ -1,5 +1,7 @@
 # hello-world--cloudflare-workers--2025
 
+* https://developers.cloudflare.com/workers/
+* https://developers.cloudflare.com/workers/examples/
 
 ```bash
 nvm i
